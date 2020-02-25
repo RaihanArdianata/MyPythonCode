@@ -1,0 +1,5 @@
+print("-" * 10)
+print("Setiap pesan diawali garis.")
+print("-" * 10)
+print("Juga diakhiri garis.")
+print("-" * 10)
